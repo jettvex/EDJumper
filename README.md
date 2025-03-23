@@ -16,12 +16,6 @@ How to Use
 4. **Reset Counter**: Click **Reset Counter** to start fresh.
 5. **Change Keybind**: Click **Edit Keybind** and enter your desired key.
 
-Setting Function Keys (F1-F12) as Keybinds
-To bind to a Function key:
-1. Click **Edit Keybind**.
-2. When prompted, type `f1`, `f2`, etc., in lowercase (e.g., `f5`).
-3. Click **OK** and your new keybind will be saved in `config.json`.
-
 OBS Integration
 The tracker outputs data to `obs_output.txt` in this format:
 ```
