@@ -8,7 +8,6 @@ Features
 - **Keybind Customization**: Easily change the keybind for adding jumps, including Function keys (F1-F12).
 - **OBS Integration**: Outputs jump data to `obs_output.txt` for seamless overlay integration.
 - **Config File**: Saves your keybind preference so it's remembered between sessions.
-<center>![image](https://github.com/user-attachments/assets/5689642d-7c8a-4171-8756-37dc4554faf9)</center>
 
 How to Use
 1. **Start the Program**: Launch `Elite Jumps Tracker.exe`. The interface will appear.
